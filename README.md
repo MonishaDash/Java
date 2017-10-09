@@ -1,4 +1,4 @@
-Bigfoot Coding Challenge - Word Search (Java)
+Word Search (Java)
 ========================================================
 
 # Prerequisites
